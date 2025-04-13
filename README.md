@@ -39,7 +39,7 @@ This project analyzes and models 311 non-emergency service request data from fou
 ## 🗂️ Project Files
 
 - `final_code.ipynb`: Full notebook with data processing, analysis, and modeling
-- `images/flowchart.jpg`: ER diagram showing normalized data schema
+- `flowchart.jpg`: ER diagram showing normalized data schema
 
 ---
 
@@ -55,7 +55,7 @@ This project analyzes and models 311 non-emergency service request data from fou
 
 ## 🖼️ Data Model Overview
 
-![ER Diagram](images/flowchart.jpg)
+![ER Diagram](flowchart.jpg)
 
 ---
 
